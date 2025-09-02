@@ -1,0 +1,2 @@
+1=D:\PLC Slideshow Controller Build\plc_slideshow_controller\bin\Debug\net8.0-windows\slides\Satyam_Presentation_LA_2025_R02.pptx
+2=D:\PLC Slideshow Controller Build\plc_slideshow_controller\bin\Debug\net8.0-windows\slides\KURO_Profile_2025_R02.pptx
